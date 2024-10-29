@@ -276,16 +276,7 @@ namespace EvaluacionUnidad2
             empresa.ListarEmpleados();
         }
 
-        //Opcion de registrar las horas trabajadas del empleado
-        static void RegistrarHorasTrabajadas()
-        {
-            Console.Write("Ingrese el ID del empleado: ");
-            int id = Convert.ToInt32(Console.ReadLine());
-            Console.Write("Ingrese las horas trabajadas en el mes: ");
-            int horas = Convert.ToInt32(Console.ReadLine());
-
-            empresa.RegistrarHorasTrabajadas(id, horas);
-        }
+       
     }
 }
 // Arreglo final
