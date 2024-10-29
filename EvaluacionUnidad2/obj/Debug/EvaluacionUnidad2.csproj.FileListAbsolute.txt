@@ -1,0 +1,7 @@
+C:\Users\LuisG\source\repos\EvaluacionUnidad2\EvaluacionUnidad2\bin\Debug\EvaluacionUnidad2.exe.config
+C:\Users\LuisG\source\repos\EvaluacionUnidad2\EvaluacionUnidad2\bin\Debug\EvaluacionUnidad2.exe
+C:\Users\LuisG\source\repos\EvaluacionUnidad2\EvaluacionUnidad2\bin\Debug\EvaluacionUnidad2.pdb
+C:\Users\LuisG\source\repos\EvaluacionUnidad2\EvaluacionUnidad2\obj\Debug\EvaluacionUnidad2.csproj.AssemblyReference.cache
+C:\Users\LuisG\source\repos\EvaluacionUnidad2\EvaluacionUnidad2\obj\Debug\EvaluacionUnidad2.csproj.CoreCompileInputs.cache
+C:\Users\LuisG\source\repos\EvaluacionUnidad2\EvaluacionUnidad2\obj\Debug\EvaluacionUnidad2.exe
+C:\Users\LuisG\source\repos\EvaluacionUnidad2\EvaluacionUnidad2\obj\Debug\EvaluacionUnidad2.pdb
