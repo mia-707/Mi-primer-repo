@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LuisG\\source\\repos\\EvaluacionUnidad2\\",
+  "WorkspaceRootPath": "C:\\Users\\HALO PRO\\Mi-primer-repo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70A7CA5B-A24F-4C17-9479-6D0501C78C32}|EvaluacionUnidad2\\EvaluacionUnidad2.csproj|c:\\users\\luisg\\source\\repos\\evaluacionunidad2\\evaluacionunidad2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70A7CA5B-A24F-4C17-9479-6D0501C78C32}|EvaluacionUnidad2\\EvaluacionUnidad2.csproj|c:\\users\\halo pro\\mi-primer-repo\\evaluacionunidad2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70A7CA5B-A24F-4C17-9479-6D0501C78C32}|EvaluacionUnidad2\\EvaluacionUnidad2.csproj|solutionrelative:evaluacionunidad2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LuisG\\source\\repos\\EvaluacionUnidad2\\EvaluacionUnidad2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\HALO PRO\\Mi-primer-repo\\EvaluacionUnidad2\\Program.cs",
               "RelativeDocumentMoniker": "EvaluacionUnidad2\\Program.cs",
-              "ToolTip": "C:\\Users\\LuisG\\source\\repos\\EvaluacionUnidad2\\EvaluacionUnidad2\\Program.cs",
+              "ToolTip": "C:\\Users\\HALO PRO\\Mi-primer-repo\\EvaluacionUnidad2\\Program.cs",
               "RelativeToolTip": "EvaluacionUnidad2\\Program.cs",
-              "ViewState": "AgIAAL4AAAAAAAAAAAAQwCIBAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAABEBAAAAAAAAAAAkwCIBAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T19:09:37.847Z",
               "EditorCaption": ""
