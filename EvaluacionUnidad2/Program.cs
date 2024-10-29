@@ -288,4 +288,4 @@ namespace EvaluacionUnidad2
         }
     }
 }
-// Un comentario, fin del programa
+// Calculo de salario
