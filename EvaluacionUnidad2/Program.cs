@@ -288,8 +288,4 @@ namespace EvaluacionUnidad2
         }
     }
 }
-<<<<<<< HEAD
-// buenos dias
-=======
-// Tenemos que modificar la tarea
->>>>>>> 4638c9456ede4ae170bb186f379a82174c1246ad
+// Arreglo final
